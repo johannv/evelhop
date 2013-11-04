@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mapKey">AIzaSyAnureF0s8XhH3xJZyRH_JVWsgaDkofOkc</string>
+    <string name="app_name">eVelhop</string>
+    <string name="app_title"> eVelhop</string>
+    
+    <string name="menu_settings">Paramètres</string>
+    <string name="about">A propos</string>
+    
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="hello_world">Développé par Johann Verbroucht </string>
+    <string name="hello_world2">Design par Stéphanie Walter</string>
+      
+    <string name="available_bike">Vélos disponibles : </string>
+    <string name="CB">CB : </string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+</resources>
